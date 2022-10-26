@@ -43,8 +43,8 @@ class Character extends FlxSprite
 
 		switch (curCharacter)
 		{
-			case 'lucy':
-				frames = Paths.getSparrowAtlas('characters/Lucy', 'shared');
+			case 'bf':
+				frames = Paths.getSparrowAtlas('characters/BOYFRIEND', 'shared');
 				
 				animation.addByPrefix('idle', 'Lucy Idle', 24, false);
 				animation.addByPrefix('singUP', 'Lucy Up', 24, false);
