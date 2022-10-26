@@ -1,12 +1,12 @@
 <img src="KadeEngineWitBackground.png" width="600" height="400">
 
-# VS DAVE (DAVE ENGINE)
-this is dave
+# VS YOURMOM (YOURMOM ENGINE)
+this is YOURMOM
 
-<img src="https://cdn.discordapp.com/attachments/892140166309892136/905267141299802152/dorve_reale.png" width="211" height="373">
+<img src="https://media.tenor.com/5be-NtjvGgkAAAAM/discord-mod.gif" width="211" height="373">
 
-say hi to dave
-please say hi to him
+say hi to YOURMOM
+please say hi to her
 
 ## About the mod
 Powered by a heavily modified version of Kade Engine, The mod includes lots of additional improvements such as
